@@ -1,0 +1,8 @@
+{
+	"name": "pm2",
+	"version": "latest",
+	"dependencies": {
+		"pm2": "*"
+	},
+	"commands": ["pm2"]
+}
